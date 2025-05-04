@@ -16,3 +16,7 @@
    ```bash
    git clone https://github.com/ТВОЙ_ПОЛЬЗОВАТЕЛЬ/fail2ban-setup.git
    cd fail2ban-setup
+
+chmod +x setup_fail2ban.sh
+Запусти от имени root или через sudo:
+sudo ./setup_fail2ban.sh
