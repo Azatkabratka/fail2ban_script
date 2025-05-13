@@ -14,7 +14,7 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/ТВОЙ_ПОЛЬЗОВАТЕЛЬ/fail2ban-setup.git
+   git clone https://github.com/Azatkabrata/fail2ban-setup.git
    cd fail2ban-setup
 
 chmod +x setup_fail2ban.sh
